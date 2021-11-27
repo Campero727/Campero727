@@ -5,12 +5,12 @@
 
 
 <p align="center">
-<a href="https://github.com/Campero727/Campero727/blob/main/ai.md">🤖</a>
-<a href="https://github.com/Campero727/Campero727/blob/main/gamedev.md">🎮</a>
-<a href="https://github.com/Campero727/Campero727/blob/main/blockchain.md">🔑</a>
-<a href="https://github.com/Campero727/Campero727/blob/main/backend.md">💻</a>
-<a href="https://github.com/Campero727/Campero727/blob/main/WebDevelopment.md">🌐</a>
-<a href="https://github.com/Campero727/Campero727/blob/main/frontend.md">🌐</a>
+<a href="https://github.com/Campero727/Campero727/blob/master/ai.md">🤖</a>
+<a href="https://github.com/Campero727/Campero727/blob/master/gamedev.md">🎮</a>
+<a href="https://github.com/Campero727/Campero727/blob/master/blockchain.md">🔑</a>
+<a href="https://github.com/Campero727/Campero727/blob/master/backend.md">💻</a>
+<a href="https://github.com/Campero727/Campero727/blob/master/WebDevelopment.md">🌐</a>
+<a href="https://github.com/Campero727/Campero727/blob/master/frontend.md">🖥️</a>
 </p>
 
 
