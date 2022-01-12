@@ -32,8 +32,9 @@
 
 ## Awesome Projects 📚
 - [Asistente virtual  🤖](https://github.com/Campero727/Asistente-Virtual) 
-- [Web_page  🌐](https://github.com/Campero727/Web_Page) 
-- [Mp ecommerce php  🌐](https://github.com/Campero727/mp-ecommerce-php) 
+- [Atlantis videogame  🎮](https://github.com/Campero727/Atlantis-VideoGame) 
+- [Ixtlilton_web_page  🌐](https://github.com/Campero727/Ixtlilton_Web_Page) 
+- [Dog html css3  🖥️](https://github.com/Campero727/Dog-html-css3) 
 
 
 
