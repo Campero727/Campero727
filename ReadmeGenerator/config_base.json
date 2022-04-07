@@ -33,6 +33,16 @@
                     "name": "FrontEnd",
                     "emoji": "🖥️",
                     "tag": "frontend"
+                },
+                {
+                    "name": "Batch Script",
+                    "emoji": "🖥️",
+                    "tag": "batch"
+                },
+                {
+                    "name": "WebScrapper",
+                    "emoji": "🖥️",
+                    "tag": "webscrapper"
                 }
             ]
         }
