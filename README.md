@@ -11,8 +11,8 @@
 <a href="https://github.com/Campero727/Campero727/blob/master/backend.md">💻</a>
 <a href="https://github.com/Campero727/Campero727/blob/master/WebDevelopment.md">🌐</a>
 <a href="https://github.com/Campero727/Campero727/blob/master/frontend.md">🖥️</a>
-<a href="https://github.com/Campero727/Campero727/blob/master/batch.md">🖥️</a>
-<a href="https://github.com/Campero727/Campero727/blob/master/webscraper.md">🖥️</a>
+<a href="https://github.com/Campero727/Campero727/blob/master/batch.md">⌨️</a>
+<a href="https://github.com/Campero727/Campero727/blob/master/webscraper.md">🕷️</a>
 </p>
 
 
@@ -35,8 +35,8 @@
 ## Awesome Projects 📚
 - [Cambiarfondoia  🤖](https://github.com/Campero727/CambiarFondoIA) 
 - [Web_page  🌐](https://github.com/Campero727/Web_Page) 
-- [Automation with batch  🖥️](https://github.com/Campero727/Automation-with-Batch) 
-- [Web scrapper  🖥️](https://github.com/Campero727/Web-Scrapper) 
+- [Automation with batch  ⌨️](https://github.com/Campero727/Automation-with-Batch) 
+- [Web scrapper  🕷️](https://github.com/Campero727/Web-Scrapper) 
 
 
 

@@ -11,8 +11,8 @@
 <a href="https://github.com/Campero727/Campero727/blob/master/backend.md">💻</a>
 <a href="https://github.com/Campero727/Campero727/blob/master/WebDevelopment.md">🌐</a>
 <a href="https://github.com/Campero727/Campero727/blob/master/frontend.md">🖥️</a>
-<a href="https://github.com/Campero727/Campero727/blob/master/batch.md">🖥️</a>
-<a href="https://github.com/Campero727/Campero727/blob/master/webscraper.md">🖥️</a>
+<a href="https://github.com/Campero727/Campero727/blob/master/batch.md">⌨️</a>
+<a href="https://github.com/Campero727/Campero727/blob/master/webscraper.md">🕷️</a>
 </p>
 
 
@@ -21,8 +21,8 @@
 </a>
 
 
-## Batch Script Projects 🖥️
-- [Automation with batch  🖥️](https://github.com/Campero727/Automation-with-Batch) 
+## Batch Script Projects ⌨️
+- [Automation with batch  ⌨️](https://github.com/Campero727/Automation-with-Batch) 
 
 
 
