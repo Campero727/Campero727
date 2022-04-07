@@ -36,12 +36,12 @@
                 },
                 {
                     "name": "Batch Script",
-                    "emoji": "🖥️",
+                    "emoji": "⌨️",
                     "tag": "batch"
                 },
                 {
                     "name": "WebScrapper",
-                    "emoji": "🖥️",
+                    "emoji": "🕷️",
                     "tag": "webscraper"
                 }
             ]
