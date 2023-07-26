@@ -66,6 +66,9 @@
     <a href="https://sqlmap.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="perl" width="40" height="40"/>
     </a>
+    <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+        <img src="https://w7.pngwing.com/pngs/475/849/png-transparent-metasploit-project-penetration-test-computer-software-information-security-computer-security-linux-blue-angle-text.png" alt="perl" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Cloud Technology</h3>
