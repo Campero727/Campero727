@@ -224,11 +224,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Campero727&show_icons=true&locale=en&layout=compact" alt="campero" /></p>
 
 
-<br/><a target="_blank"></a>
-**🚩STATS:**
-<br/><br/>
 <a href="https://github.com/Campero727"><img src="https://github-readme-stats.vercel.app/api?username=Campero727&show_icons=true&count_private=true&theme=highcontrast" alt="Campero727 Github Stats" width="450"/>
 </a>
+
 <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Campero727&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Campero727" width="350"/></a>
 <br/>
 
