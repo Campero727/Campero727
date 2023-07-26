@@ -80,8 +80,6 @@
     </a>
 <p>
 
-
-
 <h3 align="left">DevOps Technology</h3>
 <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -92,6 +90,24 @@
     </a>
 </p>
 
+
+<h3 align="left">Testing</h3>
+<p align="left">
+    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+    </a> 
+</p>
+
+
+<h3 align="left">Operating Systems</h3>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+<p align="left">
+</p>
+
+
+<h3 align="left">Other Software</h3>
 <p align="left">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
@@ -99,15 +115,9 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-    </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Campero727&show_icons=true&locale=en&layout=compact" alt="campero" /></p>
