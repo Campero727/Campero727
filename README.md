@@ -174,10 +174,34 @@
 
 
 <h3 align="left">Operating Systems</h3>
+<p align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
-<p align="left">
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://drasite.com/content/blog/posts/media/kali-2020.2/icons/kali-www.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/452/debian.png" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/material/344/arch-linux.png" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/344/red-hat.png" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/344/centos.png" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/344/raspberry-pi.png" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/344/ubuntu--v1.png" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/fluency/344/windows-10.png" alt="linux" width="40" height="40"/>
+    </a>
 </p>
 
 
