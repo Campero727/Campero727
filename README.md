@@ -226,6 +226,7 @@
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Campero727&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Campero727" width="350"/></a>
 <br/>
 
+==================
 
 <br/><a target="_blank"></a>
 
