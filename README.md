@@ -221,6 +221,7 @@
     </a>
 </p>
 
+<br/><a target="_blank"></a>
 
 <a href="https://github.com/Campero727"><img src="https://github-readme-stats.vercel.app/api?username=Campero727&show_icons=true&count_private=true&theme=highcontrast" alt="Campero727 Github Stats" width="450"/>
 </a>
