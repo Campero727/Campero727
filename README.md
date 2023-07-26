@@ -118,7 +118,9 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
-    [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
+    <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="photoshop" width="40" height="40"/>
+    </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Campero727&show_icons=true&locale=en&layout=compact" alt="campero" /></p>
