@@ -63,11 +63,68 @@
     <a href="https://nmap.org/" target="_blank" rel="noreferrer">
         <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="perl" width="40" height="40"/>
     </a>
-    <a href="https://sqlmap.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="perl" width="40" height="40"/>
+    <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer">
+        <img src="https://drasite.com/content/blog/posts/media/kali-2020.3/icons/hydra.svghttps://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="perl" width="40" height="40"/>
     </a>
-    <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-        <img src="https://w7.pngwing.com/pngs/475/849/png-transparent-metasploit-project-penetration-test-computer-software-information-security-computer-security-linux-blue-angle-text.png" alt="perl" width="40" height="40"/>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://drasite.com/content/blog/posts/media/kali-2020.2/icons/sqlsus.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://drasite.com/content/blog/posts/media/kali-2020.2/icons/powersploit.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/exploitdb/images/exploitdb-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/airgeddon/images/airgeddon-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/jboss-autopwn/images/jboss-autopwn-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/ncrack/images/ncrack-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/johnny/images/johnny-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/weevely/images/weevely-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" alt="perl" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" alt="perl" width="40" height="40"/>
     </a>
 </p>
 
