@@ -9,10 +9,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Campero727" alt="campero" /></a> </p>
 
 
-<p align="center">
-<a href="https://github.com/Campero727/Campero727/blob/master/recognition.md">💻</a>
-</p>
-
 
 <a href="">
 <img align="right" height="auto" width="200" src="https://github.com/Campero727/Campero727/blob/main/img/logo.jpg"/>
