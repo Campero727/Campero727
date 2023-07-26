@@ -63,6 +63,9 @@
     <a href="https://nmap.org/" target="_blank" rel="noreferrer">
         <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="perl" width="40" height="40"/>
     </a>
+    <a href="https://sqlmap.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="perl" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Cloud Technology</h3>
