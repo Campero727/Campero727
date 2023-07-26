@@ -49,8 +49,16 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
-    <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
+    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
         <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/>
+    </a>
+</p>
+
+
+<h3 align="left">Pentesting Tools</h3>
+<p align="left">
+    <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="perl" width="40" height="40"/>
     </a>
 </p>
 
