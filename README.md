@@ -64,7 +64,7 @@
         <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="perl" width="40" height="40"/>
     </a>
     <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer">
-        <img src="https://drasite.com/content/blog/posts/media/kali-2020.3/icons/hydra.svghttps://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="perl" width="40" height="40"/>
+        <img src="https://drasite.com/content/blog/posts/media/kali-2020.3/icons/hydra.svg" alt="perl" width="40" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
         <img src="https://drasite.com/content/blog/posts/media/kali-2020.2/icons/sqlsus.svg" alt="perl" width="40" height="40"/>
