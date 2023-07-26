@@ -13,6 +13,7 @@
 <img align="right" height="auto" width="200" src="https://github.com/Campero727/Campero727/blob/main/img/logo.jpg"/>
 </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Campero727&label=Profile%20views&color=0e75b6&style=flat" alt="Campero727" /> </p>
 
 ## Tech Stack ⌨
 - Python ⭐
